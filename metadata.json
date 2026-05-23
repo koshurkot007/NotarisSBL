@@ -1,0 +1,6 @@
+{
+  "name": "Notaris Setyo Budhi Laksmana",
+  "description": "Kantor Notaris & PPAT Kabupaten Jember",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
