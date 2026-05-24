@@ -8,16 +8,16 @@ export function Contact() {
   return (
     <div className="bg-slate-50 min-h-screen pb-20">
       <SEO 
-        title="Kontak Kami" 
-        description="Hubungi Kantor Notaris & PPAT Setyo Budhi Laksmana, S.H., M.Kn. di Jember untuk konsultasi dan pelayanan hukum kenotariatan."
+        title="Kontak Notaris & PPAT Kabupaten Jember" 
+        description="Hubungi Kantor Notaris & PPAT Setyo Budhi Laksmana, S.H., M.Kn. di Kabupaten Jember untuk konsultasi dan pelayanan hukum kenotariatan terpercaya."
       />
       
       {/* Header */}
       <div className="bg-slate-900 py-16 border-b-4 border-amber-700">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h1 className="text-3xl md:text-5xl font-serif font-bold text-white mb-4">Hubungi Kami</h1>
+          <h1 className="text-3xl md:text-5xl font-serif font-bold text-white mb-4">Kontak Notaris Jember</h1>
           <p className="text-slate-300 max-w-2xl mx-auto text-lg">
-            Kami siap mendengarkan kebutuhan hukum Anda dan memberikan solusi yang tepat serta berkepastian hukum.
+            Kami siap mendengarkan kebutuhan hukum Anda dan memberikan solusi yang tepat serta berkepastian di wilayah hukum Kabupaten Jember.
           </p>
         </div>
       </div>

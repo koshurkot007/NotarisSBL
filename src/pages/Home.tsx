@@ -57,8 +57,8 @@ export function Home() {
   return (
     <div>
       <SEO 
-        title="Beranda" 
-        description="Kantor Notaris & PPAT Setyo Budhi Laksmana, S.H., M.Kn. di Jember. Melayani pembuatan akta, legalisir, surat kepemilikan tanah, dan konsultasi hukum dengan integritas."
+        title="Kantor Notaris & PPAT Kabupaten Jember" 
+        description="Kantor Notaris & PPAT Setyo Budhi Laksmana, S.H., M.Kn. di Kabupaten Jember. Melayani pembuatan akta otentik, legalisir, urusan pertanahan PPAT, dan konsultasi hukum terpercaya di Jember."
         schema={notarySchema}
       />
       {/* Hero Section */}
@@ -71,13 +71,13 @@ export function Home() {
           <div className="md:w-2/3">
             <div className="flex items-center space-x-2 mb-4">
               <ShieldCheck className="text-amber-500 w-6 h-6" />
-              <span className="text-amber-500 font-semibold tracking-wider text-sm uppercase">Kepastian & Integritas</span>
+              <span className="text-amber-500 font-semibold tracking-wider text-sm uppercase">Kepastian & Integritas Hukum</span>
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-bold text-white leading-tight mb-6">
-              Layanan Kenotariatan & Pertanahan Profesional.
+              Notaris & PPAT Kabupaten Jember <br/> Setyo Budhi Laksmana.
             </h1>
             <p className="text-lg text-slate-300 max-w-2xl mb-10 leading-relaxed">
-              Memberikan solusi hukum yang tepat, akurat, dan terpercaya untuk melindungi aset dan kepentingan legal Anda di wilayah Jember dan sekitarnya.
+              Memberikan solusi hukum yang tepat, akurat, dan terpercaya untuk melindungi aset dan kepentingan legal Anda di wilayah Kabupaten Jember dan sekitarnya.
             </p>
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
               <Link 

@@ -28,15 +28,15 @@ export function Blog() {
   return (
     <div className="bg-slate-50 min-h-screen">
       <SEO 
-        title="Artikel & Edukasi Hukum" 
-        description="Temukan wawasan terbaru mengenai hukum properti, keluarga, bisnis, dan ulasan UU Kenotariatan oleh Setyo Budhi Laksmana, Notaris Jember."
+        title="Artikel & Edukasi Hukum Notaris Kabupaten Jember" 
+        description="Temukan wawasan terbaru mengenai hukum properti, keluarga, bisnis, dan ulasan UU Kenotariatan oleh Setyo Budhi Laksmana, Notaris & PPAT Kabupaten Jember."
       />
       <div className="bg-slate-900 py-16 border-b-4 border-amber-700 text-center">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <BookOpen className="w-12 h-12 text-amber-500 mx-auto mb-4" />
-          <h1 className="text-3xl md:text-5xl font-serif font-bold text-white mb-4">Artikel & Edukasi Hukum</h1>
+          <h1 className="text-3xl md:text-5xl font-serif font-bold text-white mb-4">Artikel Hukum Notaris Jember</h1>
           <p className="text-slate-300 max-w-2xl mx-auto text-lg">
-            Wawasan seputar hukum properti, keluarga, dan bisnis untuk membekali Anda dengan pengetahuan esensial.
+            Wawasan seputar hukum properti, keluarga, dan bisnis untuk membekali Anda dengan pengetahuan esensial di wilayah Kabupaten Jember.
           </p>
         </div>
       </div>

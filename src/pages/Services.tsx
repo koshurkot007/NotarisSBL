@@ -48,15 +48,15 @@ export function Services() {
   return (
     <div>
       <SEO 
-        title="Layanan" 
-        description="Layanan Notaris dan PPAT Jember di Kantor Setyo Budhi Laksmana. Kami menyediakan pembuatan Akta Pendirian, AJB, Hibah, Legalisasi, dan lainnya."
+        title="Layanan Notaris & PPAT Kabupaten Jember" 
+        description="Daftar Layanan Notaris dan PPAT Kabupaten Jember di Kantor Setyo Budhi Laksmana. Kami menyediakan pembuatan Akta Pendirian, AJB, Hibah, Legalisasi, dan lainnya di Jember."
       />
       {/* Header */}
       <div className="bg-slate-900 py-16 border-b-4 border-amber-700">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h1 className="text-3xl md:text-5xl font-serif font-bold text-white mb-4">Layanan Hukum Kami</h1>
+          <h1 className="text-3xl md:text-5xl font-serif font-bold text-white mb-4">Layanan Notaris & PPAT Kabupaten Jember</h1>
           <p className="text-slate-300 max-w-2xl mx-auto text-lg">
-            Sesuai dengan mandat Undang-Undang Jabatan Notaris (UUJN), kami menjamin produk hukum yang berkepastian.
+            Sesuai dengan mandat Undang-Undang Jabatan Notaris (UUJN), kami menjamin produk hukum yang berkepastian di wilayah hukum Kabupaten Jember.
           </p>
         </div>
       </div>
